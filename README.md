@@ -40,10 +40,4 @@ Use the tabs or slicers in the report to filter data by:
 - Filters and slicers allow dynamic analysis.
 - Optimized for stakeholder presentations and business reviews.
 
-## 📷 Preview
-
-> *(You can add a screenshot of the dashboard here once published or exported)*
-
----
-
 Feel free to fork, clone, and adapt this dashboard to suit your business needs.
